@@ -12,4 +12,4 @@ So, He feels the need of Someone who is experienced in this field & could do thi
 To create an 'Automated Dashboard' whicj give provide quick and latest insight with the help of data provided in order to take data driven decesions.
 
 PROJECT LINK:
-https://app.powerbi.com/view?r=eyJrIjoiMGM3YmMzMGQtNDEwNS00MzRlLWI1MDgtMWZkNGY1ZTA4ODk4IiwidCI6IjdlYTIwYzM4LTU0MzUtNGRmOC1iM2Y4LTE5ZDI3NGIzYjYyZCJ9
+https://app.powerbi.com/view?r=eyJrIjoiMGM3YmMzMGQtNDEwNS00MzRlLWI1MDgtMWZkNGY1ZTA4ODk4IiwidCI6IjdlYTIwYzM4LTU0MzUtNGRmOC1iM2Y4LTE5ZDI3NGIzYjYyZCJ9 
