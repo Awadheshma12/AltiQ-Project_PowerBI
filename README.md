@@ -8,6 +8,9 @@
 ##### To find trends and patterns in data.
 ##### To generate insight for better decesions.
 
+## Tool & Technology
+#####Power BI, Power BI Service, MySql
+
 ## End Result
 ##### To create an 'Automated Dashboard' whicj give provide quick and latest insight with the help of data provided in order to take data driven decesions.
 
