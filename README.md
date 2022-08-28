@@ -15,4 +15,4 @@
 ##### To create an 'Automated Dashboard' whicj give provide quick and latest insight with the help of data provided in order to take data driven decesions.
 
 ## PROJECT LINK:
-#### https://app.powerbi.com/view?r=eyJrIjoiMGM3YmMzMGQtNDEwNS00MzRlLWI1MDgtMWZkNGY1ZTA4ODk4IiwidCI6IjdlYTIwYzM4LTU0MzUtNGRmOC1iM2Y4LTE5ZDI3NGIzYjYyZCJ9&pageName=ReportSection
+#### https://app.powerbi.com/view?r=eyJrIjoiYzRlYWNjODktMzI0My00N2UyLTgxOTktYTc4M2U4Nzc3ZTg0IiwidCI6ImFlZDg1NDc0LTUwZmMtNGUzNS04ZjFjLTc0ZDNiYWVlZjUwNyJ9
