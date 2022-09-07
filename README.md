@@ -1,5 +1,5 @@
 ## PROJECT LINK:
-#### https://app.powerbi.com/view?r=eyJrIjoiYzRlYWNjODktMzI0My00N2UyLTgxOTktYTc4M2U4Nzc3ZTg0IiwidCI6ImFlZDg1NDc0LTUwZmMtNGUzNS04ZjFjLTc0ZDNiYWVlZjUwNyJ9
+#### https://app.powerbi.com/view?r=eyJrIjoiYzRlYWNjODktMzI0My00N2UyLTgxOTktYTc4M2U4Nzc3ZTg0IiwidCI6ImFlZDg1NDc0LTUwZmMtNGUzNS04ZjFjLTc0ZDNiYWVlZjUwNyJ9&pageName=ReportSection
 
 ##  Problem Statement
 ##### AltiQ Hardware is an emerging startup company that have suppliers across all over India. Its head office is in New Delhi. Th suppliers report the director of AtliQ Hardware on Weekly, Monthy, Quarterly basis. So the problem here is that they provide all the information about the business over phone and 100's of Excel Files filled with all the information.
