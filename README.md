@@ -18,4 +18,3 @@
 ##### To create an 'Automated Dashboard' whicj give provide quick and latest insight with the help of data provided in order to take data driven decesions.
 
 
-
